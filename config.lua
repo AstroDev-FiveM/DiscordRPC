@@ -1,8 +1,8 @@
 Config = {}
 
 -- Discord Config
-Config.DiscordAppID = '1010654255742451772'
-Config.LinkDiscord = 'https://discord.gg/uGpWXskXn6'
+Config.DiscordAppID = ''
+Config.LinkDiscord = ''
 Config.Logoduze = 'logo' -- nazwa logo
 Config.Logomale = 'logo'-- nazwa logo
 Config.Sloty = '64'
